@@ -1,6 +1,6 @@
 # Featherweight Project Maintenance
 
-## How to maintain 100+ open-source packages
+## Maintain 100+ open-source packages
 
 ## Jason R. Coombs
 
@@ -16,4 +16,4 @@ Note:
 # Q&A
 
 - Twitter/Github: @jaraco
-- Slides: https://blog.jaraco.com/lightweight-maintenance/
+- Slides: http://bit.ly/feather-package
