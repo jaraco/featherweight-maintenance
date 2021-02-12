@@ -56,6 +56,18 @@ Note: It's a common story, especially in Python where it's easy to begin coding 
 
 ...
 
+# Maintenance Steps
+
+- Review/guide bug
+- Produce/review PR
+- Merge change
+- Prepare and cut release
+- Address fallout
+
+Note: For one change. Each of these steps can be arbitrarily complex. Some projects try to batch these changes, but that increases the risk and slows down the cadence.
+
+...
+
 # Repeat
 
 - One little package,
